@@ -54,38 +54,38 @@
   "command-settings": [
     {
       "name": "start",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "stop",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "wallet",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "payout",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "multiplier",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "query",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "allow",
-      "enabled": false
+      "enabled": true
     }
   ],
   "default-labels": [],
   "assistive-pricing": false,
   "disable-analytics": false,
   "payment-permit-max-price": 1000,
-  "comment-incentives": false,
+  "comment-incentives": true,
   "max-concurrent-assigns": 2,
   "comment-element-pricing": {
     "text": 0.1,
