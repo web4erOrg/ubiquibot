@@ -48,3 +48,5 @@ command-settings:
     enabled: true
   - name: multiplier
     enabled: true
+  - name: query
+    enabled: true
