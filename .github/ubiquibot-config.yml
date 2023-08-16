@@ -61,4 +61,5 @@ incentives:
       blockquote: 0
     totals:
       word: 0.1
+disable-analytics: false
   
