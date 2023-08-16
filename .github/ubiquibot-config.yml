@@ -62,4 +62,5 @@ incentives:
     totals:
       word: 0.1
 disable-analytics: false
+assistive-pricing: true
   
