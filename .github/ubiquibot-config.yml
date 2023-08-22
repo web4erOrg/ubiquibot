@@ -60,7 +60,7 @@ incentives:
       a: 0.5
       blockquote: 0
     totals:
-      word: 100000
+      word: 1
 disable-analytics: true
 assistive-pricing: true
   
