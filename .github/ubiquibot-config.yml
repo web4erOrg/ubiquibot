@@ -63,5 +63,5 @@ incentives:
       word: 0.1
 disable-analytics: false
 assistive-pricing: true
-issue-creator-multiplier: 3.25
+issue-creator-multiplier: 2
   
