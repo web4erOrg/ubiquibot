@@ -30,7 +30,7 @@ command-settings:
     enabled: true
 promotion-comment: "\n<h6>If you enjoy the DevPool experience, please follow <a href='https://github.com/ubiquity'>Ubiquity on GitHub</a> and star <a href='https://github.com/ubiquity/devpool-directory'>this repo</a> to show your support. It helps a lot!</h6>"
 disable-analytics: true
-comment-incentives: false
+comment-incentives: true
 assistive-pricing: true
 max-concurrent-assigns: 2
 incentives:
@@ -47,4 +47,4 @@ incentives:
 default-labels:
   - "Time: <1 Hour"
   - "Priority: 0 (Normal)"
-register-wallet-with-verification: false
+register-wallet-with-verification: true
