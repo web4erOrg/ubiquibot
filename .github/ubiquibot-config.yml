@@ -47,4 +47,4 @@ incentives:
 default-labels:
   - "Time: <1 Hour"
   - "Priority: 0 (Normal)"
-register-wallet-with-verification2: true
+register-wallet-with-verification: true
