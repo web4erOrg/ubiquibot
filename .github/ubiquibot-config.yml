@@ -43,7 +43,7 @@ incentives:
       a: 0.5
       blockquote: 0
     totals:
-      word: 0.3
+      word: 0.1
 default-labels:
   - "Time: <1 Hour"
   - "Priority: 0 (Normal)"
